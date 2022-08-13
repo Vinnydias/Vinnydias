@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/Vinnydias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnydias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnydias&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnydias&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div> 
   <a href="https://twitter.com/DiaszVinny" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
